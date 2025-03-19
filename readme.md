@@ -46,12 +46,12 @@ python github-activity.py
 
 
 ## File Structure
-.
-├── api.py                  # Handles GitHub API requests
-├── display.py              # Formats and displays event details
-├── github-activity.py      # Main application file
-├── .env                    # Contains your GitHub token (optional)
-├── requirements.txt
+
+├── api.py                  # Handles GitHub API requests  
+├── display.py              # Formats and displays event details  
+├── github-activity.py      # Main application file  
+├── .env                    # Contains your GitHub token (optional)  
+├── requirements.txt  
 ├── README.md
 
 
