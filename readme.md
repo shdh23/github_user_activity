@@ -60,4 +60,4 @@ python github-activity.py
 Python 3.8+
 Requests
 
-Reference: https://roadmap.sh/projects/task-tracker 
+Reference: https://roadmap.sh/projects/github-user-activity 
